@@ -1,3 +1,5 @@
 /node_modules/
 /lib/
 .Renviron
+Fitbit_Analysis_for_Bellabeat.Rmd
+mysql_dbcon.R
