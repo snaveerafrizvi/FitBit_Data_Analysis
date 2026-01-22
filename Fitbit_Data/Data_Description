@@ -1,0 +1,9 @@
+Data Description:
+
+File : Data Indicator
+"dailyActivity_merged.csv"    : Activity 
+"dailyCalories_merged.csv"    : Calories
+"dailyIntensities_merged.csv" : Intensities
+"dailySteps_merged.csv"       : Steps
+"sleepDay_merged.csv"         : Sleep
+"weightLogInfo_merged.csv"    : Weight
