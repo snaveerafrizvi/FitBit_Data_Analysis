@@ -5,12 +5,6 @@ Set up your MySQL connection within the R setup to run SQL Queries.
 Details can be found on the official Posit website https://solutions.posit.co/connections/db/
 Once you have run your analysis make sure you close the sql connection.
 
-NOTE: Code Chunks for setting up the sql connection and closing it have been removed from the RMD file uploaded here. 
+NOTE: Code Chunks for setting up the sql connection and closing it have been removed from the RMD file uploaded here as these varyper user. 
 You would need to add these seperately based on your configurations. Sufficient guidance is available
 on the posit website if you haven't done this before
-
-In case you plan to share your work externally, remove details related to setting up and closing your
-sql connection.
-
-This RMD file creates a duplicate file for external sharing. Once the duplicate is created, you can edit it to
-remove any credentials and then share the file as needed
