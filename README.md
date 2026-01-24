@@ -20,11 +20,7 @@ Please refer to the .pdf file to view the final report and the .Rmd file to view
 * Set up your MySQL connection within the R setup to run SQL Queries. Details can be found on the official Posit website https://solutions.posit.co/connections/db/
 * Once you have run your analysis make sure you close the sql connection.
 
-* NOTE: Code Chunks for setting up the sql connection and closing it have been removed from the RMD file uploaded here. You would need to add these seperately based on your configurations. Sufficient guidance is available on the posit website if you haven't done this before
+* NOTE: Code Chunks for setting up the sql connection and closing it have been removed from the RMD file uploaded here as these vary by users. You would need to add these seperately based on your configurations. Sufficient guidance is available on the posit website if you haven't done this before
 
 * Datafiles used for this project have also been uploaded in the Fitbit_Data folder. The CSV filenames are pretty selfexplanatory, howevever an additional file has has been uploaded for identifying which file represents which indicator
   
-* In case you plan to share your work externally, remove details related to setting up and closing your sql connection.
-* This RMD file included in the project creates a duplicate file for external sharing. Once the duplicate is created, you can edit it to remove any credentials and then share the file as needed
-
-
