@@ -8,13 +8,13 @@ Please refer to the .pdf file to view the final report and the .Rmd file to view
 * The fitbit data is publicly available on Kaggle and can be downloaded from this link: https://www.kaggle.com/datasets/arashnic/fitbit
 * Data source: https://zenodo.org/records/53894#.X9oeh3Uzaao by
 
-  *Furberg, Robert
+  * Furberg, Robert
  
-  *Brinton, Julia
+  * Brinton, Julia
  
-  *Keating, Michael 
+  * Keating, Michael 
  
-  *Ortiz, Alexa1
+  * Ortiz, Alexa1
 
 
 * Set up your MySQL connection within the R setup to run SQL Queries. Details can be found on the official Posit website https://solutions.posit.co/connections/db/
