@@ -3,9 +3,6 @@
 /Users/
 .Renviron
 *.Renviron
-Fitbit_Analysis_for_Bellabeat.Rmd
-mysql_dbcon.R
-*mysql_dbcon.R
-test.Rmd
-*test.Rmd
+
+
 
