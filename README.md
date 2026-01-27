@@ -2,7 +2,7 @@
 
 This project was created as part of the final Google Data Analytics Capstone Project.
 
-Please refer to the Fitbit_DetailedAnalysis_For_Bellabeat.pdf file for the detailed analysis and report, containing all code , tables and figures (Code related to loading libraries and setting up the SQL connection can be found in the .Rmd file has been excluded from the PDF but can be found in the .RMD file).
+Please refer to the Fitbit_DetailedAnalysis_For_Bellabeat.md (or the PDF version with the same name) file for the detailed analysis and report, containing all code , tables and figures (Code related to loading libraries and setting up the SQL connection can be found in the .Rmd file has been excluded from the PDF but can be found in the .RMD file). 
 
 This Project uses R and SQL to explore the Fitness Tracker Data available at Kaggle. I have used SQLite but the code can be adapted for BigQuery and MySQL as well
 
