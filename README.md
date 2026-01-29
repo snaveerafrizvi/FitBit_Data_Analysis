@@ -1,5 +1,7 @@
 # FitBit_Data_Analysis
 
+[WORK IN PROGRESS]
+
 This project was created as part of the final Google Data Analytics Capstone Project.
 
 Please refer to the Fitbit_DetailedAnalysis_For_Bellabeat.md file for 
