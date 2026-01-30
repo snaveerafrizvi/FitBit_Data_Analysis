@@ -4768,12 +4768,21 @@ data:
 Next we will see if there is any difference in the intensity of the key
 relationships identified above on Weekends vs Weekdays.
 
-The code below repeats the same analysis as above but generates
-different heat maps for Weekdays and Weekends A function is used to
-streamline the code
+The code below uses a custom function to repeat the same analysis as
+above but generates different heat maps for Weekdays and Weekends
 
 ``` r
-corrplot_funtion <- function(data) {
+corrplot_funtion <- function(daytype) {
+  
+  # daytype to identify the filter
+  
+  # The function: 
+  # Filters daily_activity_sleep by the defined filter
+  # Creates a correlation Matrix with it's values rounded to 2 sig figures
+  # Visualizes the matrix using a heatmap
+  
+  data <- daily_activity_sleep  %>% filter(DayType == daytype)
+  
   corr_mat <- cor(data %>% .[,hmap_cols], 
                   use="pairwise.complete.obs")  %>% round(2)
 
@@ -4793,10 +4802,8 @@ corrplot_funtion <- function(data) {
 }
 
 plot_grid(
-  corrplot_funtion(daily_activity_sleep  %>% filter(DayType == 'Weekday')),
-  corrplot_funtion(daily_activity_sleep  %>% filter(DayType == 'Weekend')), 
-          ncol = 2, labels = c('Weekday', 'Weekend'), label_size = 12
-  )
+  corrplot_funtion('Weekday'), corrplot_funtion('Weekend'), ncol = 2, 
+  labels = c('Weekday', 'Weekend'), label_size = 12)
 ```
 
 <img src="Fitbit_DetailedAnalysis_For_Bellabeat_files/figure-gfm/heatmap_weekday_weekend-1.png" alt="" style="display: block; margin: auto;" />
