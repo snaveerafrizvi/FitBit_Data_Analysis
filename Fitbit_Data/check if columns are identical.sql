@@ -1,0 +1,9 @@
+SELECT 
+	TotalSteps
+FROM 
+	dailyactivity_merged
+EXCEPT
+SELECT 
+    StepTotal 
+FROM 
+	dailysteps_merged
