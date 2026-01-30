@@ -16,6 +16,7 @@ A pdf file version as well as the original .Rmd file are also uploaded
 This Project uses explores the Fitness Tracker Data publicly available on Kaggle.
 
 * Downloaded link for the data: https://www.kaggle.com/datasets/arashnic/fitbit.
+* A copy of the CSV files used as well as column descriptions are also uploaded
   
 As stated on Kaggle the data was sourced from this link: https://zenodo.org/records/53894#.X9oeh3Uzaao and was collected by:
 
