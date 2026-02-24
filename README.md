@@ -1,6 +1,5 @@
 # FitBit_Data_Analysis
 
-[WORK IN PROGRESS]
 
 This project was created as part of the final Google Data Analytics Capstone Project.
 
@@ -17,6 +16,7 @@ This Project uses explores the Fitness Tracker Data publicly available on Kaggle
 
 * Downloaded link for the data: https://www.kaggle.com/datasets/arashnic/fitbit.
 * A copy of the CSV files used as well as column descriptions are also uploaded
+* An excel file for data description is also uploaded
   
 As stated on Kaggle the data was sourced from this link: https://zenodo.org/records/53894#.X9oeh3Uzaao and was collected by:
 
