@@ -12,7 +12,7 @@ A pdf file version as well as the original .Rmd file are also uploaded
 
  ## Data Source
  
-This Project uses explores the Fitness Tracker Data publicly available on Kaggle.
+This Project explores the Fitness Tracker Data publicly available on Kaggle.
 
 * Downloaded link for the data: https://www.kaggle.com/datasets/arashnic/fitbit.
 * A copy of the CSV files used as well as column descriptions are also uploaded
