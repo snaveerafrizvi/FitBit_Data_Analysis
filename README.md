@@ -56,6 +56,10 @@ targeted strategy featuring personalized recommendations and user-specific activ
 **Address High Sedentary Behavior:** Sedentary Minutes constitute a striking **79.4%** of the total time. Alarmingly high sedentary behavior negatively impacts both activity and sleep quality. Bellabeat must intervene by setting up targeted messages and reminders to prompt activity
 when a user’s sedentary time exceeds a predetermined limit.
 
+![Low quality sleep](https://github.com/snaveerafrizvi/FitBit_Data_Analysis/blob/main/Fitbit_DetailedAnalysis_For_Bellabeat_files/figure-gfm/minasleep_vs_sedmin-1.png)
+
+![Low Activity](https://github.com/snaveerafrizvi/FitBit_Data_Analysis/blob/main/Fitbit_DetailedAnalysis_For_Bellabeat_files/figure-gfm/totalactmin_vs_sedmin-1.png)
+
 **Promote Step Count and Activity:** Messaging that encourages higher activity levels and step counts
 should be integrated, as these indicators were found to correlate with increased calorie burn.
 
@@ -65,6 +69,8 @@ type and timing:
 behavior. Messaging is likely to be most effective earlier in the day, around 1 PM.
 * Weekdays: Messaging is
 likely to be more effective later in the evening, around 6 PM.
+
+![time-day](https://github.com/snaveerafrizvi/FitBit_Data_Analysis/blob/main/Fitbit_DetailedAnalysis_For_Bellabeat_files/figure-gfm/hourlyavg_time_day-1.png)
 
 ## Programming Languages and Tools used
 
