@@ -64,7 +64,6 @@ behavior. Messaging is likely to be most effective earlier in the day, around 1 
 * Weekdays: Messaging is
 likely to be more effective later in the evening, around 6 PM.
 
-
 ## Programming Languages and Tools used
 
 This Project uses R and SQL; I have used SQLite but the code can be adapted for BigQuery and MySQL as well.
