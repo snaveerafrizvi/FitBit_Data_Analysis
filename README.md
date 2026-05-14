@@ -51,6 +51,8 @@ with standard dietary guidelines, it is at the lower end of the 2000-2000 recomm
 * A universal, “one-size-fits-all” approach will be ineffective. Bellabeat should instead implement a diversified,
 targeted strategy featuring personalized recommendations and user-specific activity plans.
 
+![User Segments](https://github.com/snaveerafrizvi/FitBit_Data_Analysis/blob/main/Fitbit_DetailedAnalysis_For_Bellabeat_files/figure-gfm/seg_users-1.png)
+
 **Address High Sedentary Behavior:** Sedentary Minutes constitute a striking **79.4%** of the total time. Alarmingly high sedentary behavior negatively impacts both activity and sleep quality. Bellabeat must intervene by setting up targeted messages and reminders to prompt activity
 when a user’s sedentary time exceeds a predetermined limit.
 
