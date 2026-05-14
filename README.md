@@ -41,14 +41,17 @@ As stated on Kaggle the data was sourced from this link: https://zenodo.org/reco
 Bellabeat has a significant opportunity to target users effectively and increase its market share for its health
 and fitness products. The analysis confirms the existence of a target demographic that can be motivated to
 raise their calorie expenditure, boost their daily step counts, and achieve their activity goals while reducing
-time spent being sedentary, with the help of Bellabeat’s products and interventions.
+time spent being sedentary, with the help of Bellabeat’s products and interventions. 
 
-**Personalization is Crucial:** The data shows considerable variation in user performance and activity levels.
-A universal, “one-size-fits-all” approach will be ineffective. Bellabeat should instead implement a diversified,
+**Key Demographic Identified** Overall, the data indicates that most respondents are primarily lightly active with Lightly Active Minutes accounting for approximately 85% of the total activity.Daily average for calories burned is 2,361 kcal and it peaks at around 2000 kcal. While this aligns
+with standard dietary guidelines, it is at the lower end of the 2000-2000 recommended range. This suggests that many participants are not highly active, indicating a potential target audience forBellabeat
+
+**Personalization is Crucial:** The data shows considerable variation in user performance and activity levels. 
+* The average step count of 8,319 is within the typical 5,000–7,000 step range; however, the data reveals a user base with distinct segments of both high and low performers. High performers, who average more than 10,000 steps per day, constitute more than one-fifth or (21.2%) of respondents, elevating the overall mean. Interestingly, the proportion of Sedentary users, averaging less than 5,000 steps per day, is also the same i.e. 21.2% or slightly more than one fifth of the total repsondents. The analysis of activity distance also reveals a significant variation in respondent performance
+* A universal, “one-size-fits-all” approach will be ineffective. Bellabeat should instead implement a diversified,
 targeted strategy featuring personalized recommendations and user-specific activity plans.
 
-**Address High Sedentary Behavior:** Alarmingly high sedentary behavior negatively impacts both activity
-and sleep quality. Bellabeat must intervene by setting up targeted messages and reminders to prompt activity
+**Address High Sedentary Behavior:** Sedentary Minutes constitute a striking **79.4%** of the total time. Alarmingly high sedentary behavior negatively impacts both activity and sleep quality. Bellabeat must intervene by setting up targeted messages and reminders to prompt activity
 when a user’s sedentary time exceeds a predetermined limit.
 
 **Promote Step Count and Activity:** Messaging that encourages higher activity levels and step counts
