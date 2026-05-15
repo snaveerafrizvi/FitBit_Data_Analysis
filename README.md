@@ -18,24 +18,6 @@ Please refer to the Fitbit_DetailedAnalysis_For_Bellabeat.md file for
 
 A pdf file version as well as the original .Rmd file are also uploaded
 
-## Data Source
- 
-This Project explores the Fitness Tracker Data publicly available on Kaggle.
-
-* Downloaded link for the data: https://www.kaggle.com/datasets/arashnic/fitbit.
-* A copy of the CSV files used as well as column descriptions are also uploaded
-* An excel file for data description is also uploaded
-  
-As stated on Kaggle the data was sourced from this link: https://zenodo.org/records/53894#.X9oeh3Uzaao and was collected by:
-
-  * Furberg, Robert
- 
-  * Brinton, Julia
- 
-  * Keating, Michael 
- 
-  * Ortiz, Alexa1
-
 ## Key Insights and Summary
 
 Bellabeat has a significant opportunity to target users effectively and increase its market share for its health
@@ -72,6 +54,24 @@ likely to be more effective later in the evening, around 6 PM.
 
 ![time-day](https://github.com/snaveerafrizvi/FitBit_Data_Analysis/blob/main/Fitbit_DetailedAnalysis_For_Bellabeat_files/figure-gfm/hourlyavg_time_day-1.png)
 
+## Data Source
+ 
+This Project explores the Fitness Tracker Data publicly available on Kaggle.
+
+* Downloaded link for the data: https://www.kaggle.com/datasets/arashnic/fitbit.
+* A copy of the CSV files used as well as column descriptions are also uploaded
+* An excel file for data description is also uploaded
+  
+As stated on Kaggle the data was sourced from this link: https://zenodo.org/records/53894#.X9oeh3Uzaao and was collected by:
+
+  * Furberg, Robert
+ 
+  * Brinton, Julia
+ 
+  * Keating, Michael 
+ 
+  * Ortiz, Alexa1
+    
 ## Programming Languages and Tools used
 
 This Project uses R and SQL; I have used SQLite but the code can be adapted for BigQuery and MySQL as well.
