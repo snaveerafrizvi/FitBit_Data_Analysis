@@ -62,7 +62,7 @@ Please refer to the Fitbit_DetailedAnalysis_For_Bellabeat.md file for
 
 A pdf file version as well as the original .Rmd file are also uploaded
 
-## Key Insights and Summary
+## Key Insights
 
 Bellabeat has a significant opportunity to target users effectively and increase its market share for its health
 and fitness products. The analysis confirms the existence of a target demographic that can be motivated to
