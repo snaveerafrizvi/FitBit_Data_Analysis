@@ -16,9 +16,9 @@ questions
 
 ## Programming Languages and Tools used
 
+This project uses a combination of Exploratory Data Analysis and Data Visualization for the analysis. 
 This Project uses R and SQL; I have used SQLite but the code can be adapted for BigQuery and MySQL as well.
-SQL was used for all Data Processing and Cleaning up to and including the Join. R was used for formatting any SQL data and Data Visualization and Plots (including any analysis and
-transformations post the join).
+SQL was used for all Data Processing and Cleaning up to and including the Join. R was used for formatting any SQL data and Data Visualization and Plots (including any analysis and transformations post the join).
 
 ## Data Understanding and Source
 
@@ -50,24 +50,10 @@ Part 1 will analyze Daily data for the following indicators:
 • Daily Sleep
 • Weight
 
-Part 1 is further divided into 2 subsections:
-• The Data Processing and Cleaning Section will shortlist, clean, and join daily level data for analysis
-• The Data Visualization and Plots Section will first focus on understanding the individual distributions
-and composition of variables and then proceed to identifying any key relationships between them
-
 Part 2 will analyze Hourly data for the following indicators:
 • Hourly Calories
 • Hourly Intensities
 • Hourly Steps
-
-Part 2 is also further divided into 2 subsections:
-• The Data Processing and Cleaning Section will shortlist, clean, and join hourly level data for analysis
-• The Data Visualization and Plots Section will review key summary statistics and examine how the
-distributions of the three indicators fluctuate throughout the hours of the day.
-
-At the end, this case study concludes by summarizing the key findings, insights, and recommendations
-aimed at helping the Bellabeat marketing team expand its market share and more effectively address customer
-needs.
 
 Please refer to the Fitbit_DetailedAnalysis_For_Bellabeat.md file for 
 
