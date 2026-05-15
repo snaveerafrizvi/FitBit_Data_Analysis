@@ -1,15 +1,73 @@
 # FitBit_Data_Analysis
 
+## Project Overview
+
 This case study, part of the Google Data Analytics Capstone, analyzes Fitbit tracker data to provide actionable
 insights for Bellabeat’s marketing strategy. Bellabeat is a high-tech manufacturer of health-focused smart
 products for women and was co-founded by Urška Sršen and Sando Mur
 
+## Business Understanding 
 The goal of this analysis is to identify smart device usage trends and determine how these patterns can be
 applied to Bellabeat’s customers to optimize their marketing strategy. It aims to answer the following 3
 questions
 1. What are some trends in smart device usage?
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
+
+## Programming Languages and Tools used**
+
+This Project uses R and SQL; I have used SQLite but the code can be adapted for BigQuery and MySQL as well.
+SQL was used for all Data Processing and Cleaning up to and including the Join. R was used for formatting any SQL data and Data Visualization and Plots (including any analysis and
+transformations post the join).
+
+## Data Understanding and Source
+
+This Project explores the Fitness Tracker Data publicly available on Kaggle.
+
+* Downloaded link for the data: https://www.kaggle.com/datasets/arashnic/fitbit.
+* A copy of the CSV files used as well as column descriptions are also uploaded
+* An excel file for data description is also uploaded
+  
+As stated on Kaggle the data was sourced from this link: https://zenodo.org/records/53894#.X9oeh3Uzaao and was collected by:
+
+  * Furberg, Robert
+ 
+  * Brinton, Julia
+ 
+  * Keating, Michael 
+ 
+  * Ortiz, Alexa1
+
+## Modeling and Evaluation
+
+This project is structured into two parts:
+
+Part 1 will analyze Daily data for the following indicators:
+• Daily Activity
+• Daily Calories
+• Daily Intensities
+• Daily Steps
+• Daily Sleep
+• Weight
+
+Part 1 is further divided into 2 subsections:
+• The Data Processing and Cleaning Section will shortlist, clean, and join daily level data for analysis
+• The Data Visualization and Plots Section will first focus on understanding the individual distributions
+and composition of variables and then proceed to identifying any key relationships between them
+
+Part 2 will analyze Hourly data for the following indicators:
+• Hourly Calories
+• Hourly Intensities
+• Hourly Steps
+
+Part 2 is also further divided into 2 subsections:
+• The Data Processing and Cleaning Section will shortlist, clean, and join hourly level data for analysis
+• The Data Visualization and Plots Section will review key summary statistics and examine how the
+distributions of the three indicators fluctuate throughout the hours of the day.
+
+At the end, this case study concludes by summarizing the key findings, insights, and recommendations
+aimed at helping the Bellabeat marketing team expand its market share and more effectively address customer
+needs.
 
 Please refer to the Fitbit_DetailedAnalysis_For_Bellabeat.md file for 
 
@@ -54,27 +112,8 @@ likely to be more effective later in the evening, around 6 PM.
 
 ![time-day](https://github.com/snaveerafrizvi/FitBit_Data_Analysis/blob/main/Fitbit_DetailedAnalysis_For_Bellabeat_files/figure-gfm/hourlyavg_time_day-1.png)
 
-## Data Source
  
-This Project explores the Fitness Tracker Data publicly available on Kaggle.
 
-* Downloaded link for the data: https://www.kaggle.com/datasets/arashnic/fitbit.
-* A copy of the CSV files used as well as column descriptions are also uploaded
-* An excel file for data description is also uploaded
-  
-As stated on Kaggle the data was sourced from this link: https://zenodo.org/records/53894#.X9oeh3Uzaao and was collected by:
-
-  * Furberg, Robert
- 
-  * Brinton, Julia
- 
-  * Keating, Michael 
- 
-  * Ortiz, Alexa1
     
-## Programming Languages and Tools used
-
-This Project uses R and SQL; I have used SQLite but the code can be adapted for BigQuery and MySQL as well.
-
 
   
