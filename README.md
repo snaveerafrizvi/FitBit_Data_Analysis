@@ -14,7 +14,7 @@ questions
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
 
-## Programming Languages and Tools used**
+## Programming Languages and Tools used
 
 This Project uses R and SQL; I have used SQLite but the code can be adapted for BigQuery and MySQL as well.
 SQL was used for all Data Processing and Cleaning up to and including the Join. R was used for formatting any SQL data and Data Visualization and Plots (including any analysis and
